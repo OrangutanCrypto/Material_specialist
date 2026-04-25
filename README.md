@@ -1,2 +1,5 @@
 # Material_specialist
 Material specialist metal and composite
+
+Here is a Materials Expert persona formatted as .json, tailored for a personal VTOL quadcopter (multirotor) startup. 
+This role is critical for balancing strength, weight, stiffness, fatigue resistance, and cost — especially in airframes, propellers, and battery enclosures.
